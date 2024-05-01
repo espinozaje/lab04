@@ -1,0 +1,20 @@
+[
+    {   
+        "name": "¿Qué es?",
+        "slug": "mcf-1",
+        "description": "Microsoft Corp. es una compañía estadounidense vinculada al desarrollo, fabricación, entrega de licencias y respaldo de un amplio rango de productos de software y servicios para diferentes tipos de dispositivos computacionales. Opera mediante cinco segmentos de negocios: clientes, servidores y herramientas, servicios empresariales en línea, Microsoft Business Division y la división de entretenimiento y dispositivos.", 
+        "picture": "https://imagenes.elpais.com/resizer/p8Pl064yE-zhRBJHF95ZJOwwALM=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/JN2H24X3HFNBXF75AXPUYHA4AU.jpg"
+    },
+    {
+        "name": "¿Dónde se ubica?",
+        "slug": "mcf-2",
+        "description": "Microsoft Corporation es una multinacional tecnológica de origen estadounidense que desarrolla y comercializa una amplia gama de software, hardware y servicios de TI, tanto para empresas como para consumidores privados. Fundada en 1975 por Bill Gates y Paul Allen en Albuquerque, Nuevo México, la compañía tiene su sede en Redmond, Washington, desde 1986.", 
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/1920px-Aerial_Microsoft_West_Campus_August_2009.jpg"
+    },
+    {
+        "name": "Productos",
+        "slug": "mcf-3",
+        "description": "La última versión es Microsoft Office 2021 y el programa de suscripción Microsoft 365. Desde la esquina superior izquierda: Outlook, OneDrive, Word, Excel, PowerPoint, OneNote, SharePoint, Teams, y Yammer.", 
+        "picture": "https://www.enriquedans.com/wp-content/uploads/2023/07/Office-with-Teams-768x522.jpg"
+    }
+]
