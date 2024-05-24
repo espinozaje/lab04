@@ -1,0 +1,25 @@
+header{
+    background: #0c6ffd ;
+}
+
+footer{
+    background: #d4d4d4;
+    text-align: center;
+    
+    height: 100px;
+}
+
+footer p{
+    color: #7f7f7f;
+}
+
+footer a{
+    color: #7f7f7f;
+    text-decoration: none;
+}
+
+.titulo{
+    color: white;
+}
+
+

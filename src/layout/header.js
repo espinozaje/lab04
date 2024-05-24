@@ -1,9 +1,10 @@
+import '../style/style.css'
 const Header = () => {
     return <header>
-        <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom bg-primary" id="inicio">
+        <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom" id="inicio">
       <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none ">
         <img src="https://developer.microsoft.com/_devcom/images/logo-ms-social.png" class="bi me-2" width="50" height="50"></img>
-        <span class="fs-4">Microsoft</span>
+        <span class="titulo fs-4">Microsoft</span>
       </a>
 
       <ul class="nav nav-pills">

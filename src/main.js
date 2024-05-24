@@ -32,7 +32,7 @@ const Main = () => {
               return (<Carousel.Item onClick={(e) => {
                   e.preventDefault(); handleClick(it.slug)
               }}>
-                  <img className='w-100 dark-image' src={it.picture}></img>
+                  <img className='w-100 dark-image' height={500} src={it.picture}></img>
                   <Carousel.Caption>
                       <h3>{it.name}</h3>
                     
